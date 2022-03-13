@@ -1,22 +1,48 @@
 {
 	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+		[
+			"midnight-snack",
+			"chic",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"rummager",
+			"chic2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"one-more-bite",
+			"chic3",
+			[
+				255,
+				255,
+				255
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "philly",
 	"weekCharacters": [
-		"pico",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
-	"startUnlocked": true,
-
+	"storyName": "PIZZA",
+	"weekName": "Week C",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

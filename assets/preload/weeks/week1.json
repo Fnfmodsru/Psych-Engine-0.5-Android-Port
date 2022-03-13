@@ -1,22 +1,48 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"the-fazbear",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"inside-the-shell",
+			"fed2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"broken-inside",
+			"gfed",
+			[
+				255,
+				255,
+				255
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "stage",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"storyName": "Are you ready for some Fazbear Pizza ?",
+	"weekName": "Week F",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

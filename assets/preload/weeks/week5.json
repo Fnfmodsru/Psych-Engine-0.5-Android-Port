@@ -1,22 +1,30 @@
 {
 	"songs": [
-		["Cocoa", "parents", [160, 209, 255]],
-		["Eggnog", "parents", [160, 209, 255]],
-		["Winter Horrorland", "monster", [160, 209, 255]]
+		[
+			"the-happiest-day",
+			"bfette",
+			[
+				255,
+				255,
+				255
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "school",
 	"weekCharacters": [
-		"parents-christmas",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "christmas",
-
-	"storyName": "RED SNOW",
-	"weekBefore": "week4",
-	"weekName": "Week 5",
-	"startUnlocked": true,
-
+	"storyName": "Freddy and Friends are tired of your shit",
+	"weekName": "Happy",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "week4",
+	"startUnlocked": true
 }

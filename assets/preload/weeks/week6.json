@@ -1,22 +1,48 @@
 {
 	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		[
+			"let-us-in",
+			"fed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"the-slaughter",
+			"fed2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"dead-inside",
+			"gfed",
+			[
+				255,
+				255,
+				255
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "stage",
 	"weekCharacters": [
-		"senpai",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"storyName": "Do not play this if you are doing a YouTube video",
+	"weekName": "Week D",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
